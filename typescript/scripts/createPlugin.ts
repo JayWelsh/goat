@@ -85,11 +85,11 @@ function createPackageJson(options: PluginOptions): string {
         homepage: "https://ohmygoat.dev",
         repository: {
             type: "git",
-            url: "git+https://github.com/goat-sdk/goat.git",
+            url: "git+https://github.com/JayWelsh/goat.git",
         },
         license: "MIT",
         bugs: {
-            url: "https://github.com/goat-sdk/goat/issues",
+            url: "https://github.com/JayWelsh/goat/issues",
         },
         keywords: ["ai", "agents", "web3"],
         dependencies,
